@@ -1,30 +1,14 @@
 {
         "anytime" : [
-                "Je ziet er geweldig uit vandaag!",
-                "Wat een geweldige dag vandaag!",
-                "Jij maakt vandaag het verschil!",
-                "Een prachtige lach, voor een prachtige dag",
-                "Kijk je nog steeds naar de spiegel?",
-                "Hallo, ik ben El, Spieg El"
+               "Exodus 33:14 My presence will go with you, and I will give you rest."
         ],
         "morning" : [
-                "Wat zit je haar weer goed vandaag!",
-                "Begin de dag met een lach!",
-                "Het zal weer een prachtige dag worden!",
-                "Is het niet een leuke dag?",
-                "Bereid je voor op een leuke dag!"
+                "Exodus 33:14 My presence will go with you, and I will give you rest."
         ],
         "afternoon" : [
-                "Nog even je werk afmaken...",
-                "Middag, niet de avond, niet de ochtend",
-                "Is dit niet een leuke dag?",
-                "Bijna etenstijd!"
+                "Exodus 33:14 My presence will go with you, and I will give you rest."
         ],
         "evening" : [
-                "En nu op naar de vergadering.",
-                "Eet smakelijk!",
-                "Even rust, heerlijk....",
-                "Jij hebt het verschil gemaakt!",
-                "Was het eten lekker?"
+              "Exodus 33:14 My presence will go with you, and I will give you rest."
         ]
 }
